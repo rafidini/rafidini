@@ -1,3 +1,5 @@
+![](banner.png)
+
 ## What's up? I'm Itokiana Rafidinarivo
 - 👨‍🎓 I am currently studying at ESIEE Paris
 - 🤖 I am learning about AI and stuff
