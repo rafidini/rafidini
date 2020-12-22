@@ -14,6 +14,6 @@
 
 ___
 
-[![stats](https://github-readme-stats.vercel.app/api?username=rafidini&theme=white-green)](https://github.com/rafidini/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=rafidini&theme=black-blue)](https://github.com/rafidini/github-readme-stats)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafidini&theme=white-green)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafidini&theme=black-blue)
