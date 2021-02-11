@@ -1,7 +1,6 @@
 ## What's up? I'm Itokiana Rafidinarivo
 - 👨‍🎓 I am currently studying at ESIEE Paris
 - 🤖 I am learning about AI and stuff
-- 🔎 I am currently looking for an internship
 
 ## 📞 Contact
 - ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/itokiana-rafidinarivo/)
