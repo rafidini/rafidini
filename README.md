@@ -9,5 +9,3 @@
     <img src="https://img.icons8.com/material-rounded/16/000000/medium-logo.png" alt="medium"> Medium
   </a>
 </p>
-
-![rafidini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafidini&theme=buefy)
